@@ -20,7 +20,7 @@ git clone https://github.com/kiddogum/python-json-car-data.git
     "start_of_production": "2022 year",
     "powertrain_architecture": "Internal Combustion engine",
     "body_type": "Coupe",
-    "seats": "2",A
+    "seats": "2",
     "doors": "2"
   },
   "performance_specs": {
@@ -92,7 +92,6 @@ git clone https://github.com/kiddogum/python-json-car-data.git
     "image_17": "https://www.auto-data.net/images/f118/Porsche-718-Cayman-982.jpg"
   }
 }
-
 ```
 
 ## Installing / Set-up and Using the repo
